@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #fff;
+}
+
+.jumbotron h1 {
+  padding-top: 2rem;
+}
+
+#about {
+  background-color: #299154;
+  color: white;
+}
+#skills {
+  padding-top: 8rem;
+}
+
+section {
+  padding-top: 5rem;
+}
